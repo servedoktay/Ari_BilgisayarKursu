@@ -1,0 +1,7 @@
+C:\Users\ARIBILGI\source\repos\30.06.2024_ders2\bin\Debug\30.06.2024_ders2.exe.config
+C:\Users\ARIBILGI\source\repos\30.06.2024_ders2\bin\Debug\30.06.2024_ders2.exe
+C:\Users\ARIBILGI\source\repos\30.06.2024_ders2\bin\Debug\30.06.2024_ders2.pdb
+C:\Users\ARIBILGI\source\repos\30.06.2024_ders2\obj\Debug\30.06.2024_ders2.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\30.06.2024_ders2\obj\Debug\30.06.2024_ders2.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\30.06.2024_ders2\obj\Debug\30.06.2024_ders2.exe
+C:\Users\ARIBILGI\source\repos\30.06.2024_ders2\obj\Debug\30.06.2024_ders2.pdb
