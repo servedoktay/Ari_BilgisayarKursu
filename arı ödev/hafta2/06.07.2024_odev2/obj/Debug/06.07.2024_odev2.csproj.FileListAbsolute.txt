@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\06.07.2024_odev2\bin\Debug\06.07.2024_odev2.exe.config
+C:\Users\CASPER\source\repos\06.07.2024_odev2\bin\Debug\06.07.2024_odev2.exe
+C:\Users\CASPER\source\repos\06.07.2024_odev2\bin\Debug\06.07.2024_odev2.pdb
+C:\Users\CASPER\source\repos\06.07.2024_odev2\obj\Debug\06.07.2024_odev2.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\06.07.2024_odev2\obj\Debug\06.07.2024_odev2.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\06.07.2024_odev2\obj\Debug\06.07.2024_odev2.exe
+C:\Users\CASPER\source\repos\06.07.2024_odev2\obj\Debug\06.07.2024_odev2.pdb
