@@ -1,0 +1,7 @@
+C:\EGITMEN YEDEK\COBAN\20240630\Ornek9\Ornek9\bin\Debug\Ornek9.exe.config
+C:\EGITMEN YEDEK\COBAN\20240630\Ornek9\Ornek9\bin\Debug\Ornek9.exe
+C:\EGITMEN YEDEK\COBAN\20240630\Ornek9\Ornek9\bin\Debug\Ornek9.pdb
+C:\EGITMEN YEDEK\COBAN\20240630\Ornek9\Ornek9\obj\Debug\Ornek9.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\COBAN\20240630\Ornek9\Ornek9\obj\Debug\Ornek9.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\COBAN\20240630\Ornek9\Ornek9\obj\Debug\Ornek9.exe
+C:\EGITMEN YEDEK\COBAN\20240630\Ornek9\Ornek9\obj\Debug\Ornek9.pdb
