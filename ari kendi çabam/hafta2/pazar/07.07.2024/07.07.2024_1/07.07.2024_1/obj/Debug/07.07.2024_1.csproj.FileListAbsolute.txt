@@ -1,0 +1,7 @@
+C:\Users\ARIBILGI\Desktop\nk\07.07.2024_1\07.07.2024_1\bin\Debug\07.07.2024_1.exe.config
+C:\Users\ARIBILGI\Desktop\nk\07.07.2024_1\07.07.2024_1\bin\Debug\07.07.2024_1.exe
+C:\Users\ARIBILGI\Desktop\nk\07.07.2024_1\07.07.2024_1\bin\Debug\07.07.2024_1.pdb
+C:\Users\ARIBILGI\Desktop\nk\07.07.2024_1\07.07.2024_1\obj\Debug\07.07.2024_1.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\nk\07.07.2024_1\07.07.2024_1\obj\Debug\07.07.2024_1.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\07.07.2024_1\07.07.2024_1\obj\Debug\07.07.2024_1.exe
+C:\Users\ARIBILGI\Desktop\nk\07.07.2024_1\07.07.2024_1\obj\Debug\07.07.2024_1.pdb

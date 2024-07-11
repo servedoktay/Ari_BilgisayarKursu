@@ -1,0 +1,7 @@
+C:\Users\ARIBILGI\Desktop\nk\06.07.2024_ders3\06.07.2024_ders3\bin\Debug\06.07.2024_ders3.exe.config
+C:\Users\ARIBILGI\Desktop\nk\06.07.2024_ders3\06.07.2024_ders3\bin\Debug\06.07.2024_ders3.exe
+C:\Users\ARIBILGI\Desktop\nk\06.07.2024_ders3\06.07.2024_ders3\bin\Debug\06.07.2024_ders3.pdb
+C:\Users\ARIBILGI\Desktop\nk\06.07.2024_ders3\06.07.2024_ders3\obj\Debug\06.07.2024_ders3.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\nk\06.07.2024_ders3\06.07.2024_ders3\obj\Debug\06.07.2024_ders3.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\06.07.2024_ders3\06.07.2024_ders3\obj\Debug\06.07.2024_ders3.exe
+C:\Users\ARIBILGI\Desktop\nk\06.07.2024_ders3\06.07.2024_ders3\obj\Debug\06.07.2024_ders3.pdb
