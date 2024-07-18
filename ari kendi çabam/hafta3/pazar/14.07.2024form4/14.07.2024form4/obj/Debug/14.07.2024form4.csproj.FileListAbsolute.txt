@@ -1,0 +1,10 @@
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\bin\Debug\14.07.2024form4.exe.config
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\bin\Debug\14.07.2024form4.exe
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\bin\Debug\14.07.2024form4.pdb
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\obj\Debug\14.07.2024form4.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\obj\Debug\_14._07._2024form4.Form1.resources
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\obj\Debug\_14._07._2024form4.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\obj\Debug\14.07.2024form4.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\obj\Debug\14.07.2024form4.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\obj\Debug\14.07.2024form4.exe
+C:\Users\ARIBILGI\Desktop\nk\14.07.2024form4\14.07.2024form4\obj\Debug\14.07.2024form4.pdb
