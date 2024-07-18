@@ -1,0 +1,6 @@
+C:\EGITMEN YEDEK\COBAN\20240707\Ornek6\Okul\bin\Debug\Okul.dll
+C:\EGITMEN YEDEK\COBAN\20240707\Ornek6\Okul\bin\Debug\Okul.pdb
+C:\EGITMEN YEDEK\COBAN\20240707\Ornek6\Okul\obj\Debug\Okul.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\COBAN\20240707\Ornek6\Okul\obj\Debug\Okul.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\COBAN\20240707\Ornek6\Okul\obj\Debug\Okul.dll
+C:\EGITMEN YEDEK\COBAN\20240707\Ornek6\Okul\obj\Debug\Okul.pdb
