@@ -1,0 +1,16 @@
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\bin\Debug\net8.0-windows\20.07.2024_orn6.exe
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\bin\Debug\net8.0-windows\20.07.2024_orn6.deps.json
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\bin\Debug\net8.0-windows\20.07.2024_orn6.runtimeconfig.json
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\bin\Debug\net8.0-windows\20.07.2024_orn6.dll
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\bin\Debug\net8.0-windows\20.07.2024_orn6.pdb
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\_20._07._2024_orn6.Form1.resources
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.AssemblyInfo.cs
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.dll
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\refint\20.07.2024_orn6.dll
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.pdb
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\20.07.2024_orn6.genruntimeconfig.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn6\20.07.2024_orn6\obj\Debug\net8.0-windows\ref\20.07.2024_orn6.dll
