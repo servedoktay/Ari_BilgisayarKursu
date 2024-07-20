@@ -1,0 +1,16 @@
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\bin\Debug\net8.0-windows\20.07.2024_orn3 hoca.exe
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\bin\Debug\net8.0-windows\20.07.2024_orn3 hoca.deps.json
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\bin\Debug\net8.0-windows\20.07.2024_orn3 hoca.runtimeconfig.json
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\bin\Debug\net8.0-windows\20.07.2024_orn3 hoca.dll
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\bin\Debug\net8.0-windows\20.07.2024_orn3 hoca.pdb
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\_20._07._2024_orn3_hoca.Form1.resources
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.AssemblyInfo.cs
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.dll
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\refint\20.07.2024_orn3 hoca.dll
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.pdb
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\20.07.2024_orn3 hoca.genruntimeconfig.cache
+C:\Users\ARIBILGI\Desktop\nk\20.07.2024_orn1\20.07.2024_orn3 hoca\obj\Debug\net8.0-windows\ref\20.07.2024_orn3 hoca.dll
