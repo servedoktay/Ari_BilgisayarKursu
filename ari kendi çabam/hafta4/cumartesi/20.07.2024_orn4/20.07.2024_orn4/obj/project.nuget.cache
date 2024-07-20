@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0w/GEgPPJpljIYEgccAKeil+YVq9CpdiKgLmBFdOyq3bV/MjO/pbnaMU0qEURGy7SVftsr7/glQ9Y+eCZ5YG1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARIBILGI\\Desktop\\nk\\20.07.2024_orn4\\20.07.2024_orn4\\20.07.2024_orn4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARIBILGI\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ARIBILGI\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\ARIBILGI\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
