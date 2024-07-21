@@ -1,0 +1,16 @@
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\bin\Debug\net8.0-windows\21.07.2024_orn2.exe
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\bin\Debug\net8.0-windows\21.07.2024_orn2.deps.json
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\bin\Debug\net8.0-windows\21.07.2024_orn2.runtimeconfig.json
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\bin\Debug\net8.0-windows\21.07.2024_orn2.dll
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\bin\Debug\net8.0-windows\21.07.2024_orn2.pdb
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\_21._07._2024_orn2.Form1.resources
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.AssemblyInfo.cs
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.dll
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\refint\21.07.2024_orn2.dll
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.pdb
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\21.07.2024_orn2.genruntimeconfig.cache
+C:\Users\ARIBILGI\Desktop\nk\hafta4\pazar\21.07.2024_orn1\21.07.2024_orn2\obj\Debug\net8.0-windows\ref\21.07.2024_orn2.dll
